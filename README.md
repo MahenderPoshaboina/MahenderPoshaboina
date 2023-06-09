@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently in my final year of Bachelor of Technology (Computer Science).<br>👯 I’m looking to collaborate on DevOps projects.<br>🌱 I’m currently learning and Improving on DevOps tools.<br>⚡ Fun fact - I am lazy but will do things on time.
+🔭 I'm currently in my final year of Bachelor of Technology (Computer Science).<br>👯 I’m looking to collaborate on DevOps projects.<br>🌱 I’m currently learning and Improving on DevOps tools.<br>
 
 
 ## 🌐 Socials:
